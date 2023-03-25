@@ -1,0 +1,2 @@
+username="kullaniciadi"
+password="sifre"
